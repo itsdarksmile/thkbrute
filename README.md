@@ -1,6 +1,6 @@
 # thkbrute
-hoe to run it.
-the tool is made for only BD-THK members.
+
+this tool is made for only BD-THK members.
 If anyone do any illegal activities the author 
 Isn't responsible.
 
