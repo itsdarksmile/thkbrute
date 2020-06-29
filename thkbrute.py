@@ -68,9 +68,9 @@ def banner():
     runntxt(W+"  √=============================================√")
     runntxt(W+"  |\033[31m••••••  HACK FACEBOOK WITH BRUTEFORCE  ••••••\033[0;1m|")
     runntxt(W+"  √=============================================√")
-    runntxt(W+"  |\033[33;1m            MADE BY:MD.MAHID ALAM            \033[0;1m|")
+    runntxt(W+"  |\033[33;1m            MADE BY:d@rk5m!13                 \033[0;1m|")
     runntxt(W+"  |\033[31m       TRY KORO DEKHO PARBA,HAL CHERO NA     \033[0;1m|")
-    runntxt(W+"  |\033[33;1m            FACEBOOK:realmahidalam           \033[0;1m|")
+    runntxt(W+"  |\033[33;1m            FACEBOOK:don't need bro           \033[0;1m|")
     runntxt(W+"  |\033[31m                  TEAM:BD THK                \033[0;1m|")
     runntxt(W+"  |\033[34m---------------------------------------------\033[0;1m|")
     runntxt(W+"  |\033[36;1m          LIFE OF SPAMMER (BD THK)           \033[0;1m|")
@@ -197,7 +197,7 @@ def runn_noobs():
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
          print R+" [+] ID / Username Target\033[97;1m: {}".format(email_target)
-         print R+" [+] list e password er songkha\033[97;1m:", len(nuub),'ti'
+         print R+" [+] list e password er ache\033[97;1m:", len(nuub),'ti'
          print R+" [+] folafol pete opekkha korun\033[97;1m.........."
          print " "
 
