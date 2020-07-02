@@ -1,7 +1,7 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# MADE BY:MD.MAHID ALAM
-# team:BD THB
+# MADE BY:d@rk 5m!13
+# team:BD THk
 
 
 import os
@@ -68,9 +68,9 @@ def banner():
     runntxt(W+"  √=============================================√")
     runntxt(W+"  |\033[31m••••••  HACK FACEBOOK WITH BRUTEFORCE  ••••••\033[0;1m|")
     runntxt(W+"  √=============================================√")
-    runntxt(W+"  |\033[33;1m            MADE BY:MD.MAHID ALAM            \033[0;1m|")
-    runntxt(W+"  |\033[31m       TRY KORO DEKHO PARBA,HAL CHERO NA     \033[0;1m|")
-    runntxt(W+"  |\033[33;1m            FACEBOOK:realmahidalam           \033[0;1m|")
+    runntxt(W+"  |\033[33;1m            MADE BY:d@rk 5m!13               \033[0;1m|")
+  
+    runntxt(W   
     runntxt(W+"  |\033[31m                  TEAM:BD THK                \033[0;1m|")
     runntxt(W+"  |\033[34m---------------------------------------------\033[0;1m|")
     runntxt(W+"  |\033[36;1m          LIFE OF SPAMMER (BD THK)           \033[0;1m|")
