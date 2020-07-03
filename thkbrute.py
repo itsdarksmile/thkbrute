@@ -39,10 +39,10 @@ def banner():
     runntxt(R+ "!!warning: For any illegal activity the owner of this tool is not responsible!!")
     runntxt(R+"")
     runntxt(B+">>>\033[36;1mofficial member of team BD THK\033[34m<<<")
-    runntxt(B+"╰────➲1/CEO:Foyjul Islam Naim")
-    runntxt(B+"╰────➲2/Admin:Masum king")
-    runntxt(B+"╰────➲3/Admin:Zamal")
-    runntxt(B+"╰────➲4/Admin:d@rk 5m!13")
+    runntxt(B+"╰────➲1/CEO: Fi Naim")
+   
+  
+    runntxt(B+"╰────➲4/President: d@rk 5m!13")
     
     runntxt(R+"")
     runntxt(YY+"                   __________________________")
