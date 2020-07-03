@@ -40,8 +40,6 @@ def banner():
     runntxt(R+"")
     runntxt(B+">>>\033[36;1mofficial member of team BD THK\033[34m<<<")
     runntxt(B+"╰────➲1/CEO: Fi Naim")
-   
-  
     runntxt(B+"╰────➲4/President: d@rk 5m!13")
     
     runntxt(R+"")
@@ -69,8 +67,6 @@ def banner():
     runntxt(W+"  |\033[31m••••••  HACK FACEBOOK WITH BRUTEFORCE  ••••••\033[0;1m|")
     runntxt(W+"  √=============================================√")
     runntxt(W+"  |\033[33;1m            MADE BY:d@rk 5m!13               \033[0;1m|")
-  
-    runntxt(W   
     runntxt(W+"  |\033[31m                  TEAM:BD THK                \033[0;1m|")
     runntxt(W+"  |\033[34m---------------------------------------------\033[0;1m|")
     runntxt(W+"  |\033[36;1m          LIFE OF SPAMMER (BD THK)           \033[0;1m|")
